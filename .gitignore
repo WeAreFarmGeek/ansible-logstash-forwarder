@@ -1,0 +1,4 @@
+*.crt
+*.key
+vars/global_vars.yml
+.DS_Store

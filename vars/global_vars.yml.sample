@@ -1,0 +1,3 @@
+---
+user: john
+logstash_domain: log.example.com:5043
