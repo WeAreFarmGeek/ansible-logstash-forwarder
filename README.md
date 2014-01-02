@@ -8,6 +8,8 @@ Use the SSL keys you generated for your logstash configuration ([see here for in
 
 Copy `vars/global_vars.yml.sample` and customise it to suit your setup - it should be fairly self explanatory.
 
+This ansible config installs a .deb generated from the logstash-forwarder sources. You can generate your own by following the instructions [here](https://github.com/elasticsearch/logstash-forwarder#building-it).
+
 Installation
 ------------
 
